@@ -1,28 +1,22 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: IT Manager
+  time: 2013 - 2014
+  company: Lojas Americanas, Rio de Janeiro
+  details: "Management and monitoring of the computer operational enviroment. 
+  Support for users of the store's computing environment."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Internship
+  time: '2013' 
+  company: Allen Sports, Rio de Janeiro
+  details: "Development of sports-related applications with Microsoft .NET and SQL Server technologies."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Scientific Initiation
+  time: 2011 - 2013
+  company:  National Laboratory of Scientific Computing, Rio de Janeiro
+  details: "Development of a fluid simulator based on the Lattice Boltzmann method using the OpenGL graphical
+  library for result visualization."
+- experience:
+  role: Internship
+  time: 2009 - 2011
+  company: Connectech Networks, Rio de Janeiro
+  details: User support in Microsoft network environment, on Windows Operating Systems.
