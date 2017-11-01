@@ -5,8 +5,8 @@ baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-style: styles-3
-#style: styles-4
+#style: styles-3
+style: styles-4
 #style: styles-5
 #style: styles-6
 
@@ -24,7 +24,7 @@ Currently develops in Python and works mainly on Linux platforms.'
 email: jgmayworm@gmail.com
 phone: 
 # website: blog.webjeda.com #do not add http://
-linkedin: jgmayworm
+linkedin:
 github: jgmayworm
 # twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
