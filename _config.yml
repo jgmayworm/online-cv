@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: 'My Resume'
 url: 'https://jgmayworm.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 
