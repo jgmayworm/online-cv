@@ -7,8 +7,8 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-2
 #style: styles-3
 #style: styles-4
-style: styles-5
-#style: styles-6
+#style: styles-5
+style: styles-6
 
 #Profile information
 name: Jose Guilherme Mayworm
@@ -22,9 +22,9 @@ Currently develops in Python and works mainly on Linux platforms.'
 
 #sidebar links
 email: jgmayworm@gmail.com
-phone: 
+phone: +55 24 999679638
 # website: blog.webjeda.com #do not add http://
-linkedin:
+linkedin: jgmayworm
 github: jgmayworm
 # twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
