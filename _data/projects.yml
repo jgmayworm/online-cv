@@ -1,24 +1,34 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: Academic Projects
+
+# - project:
+#   title: Velocity
+#   link: "#hook"
+#   tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# - project:
+#   title: DevStudio
+#   link: "#"
+#   tagline: "A responsive website template designed to help web developers/designers market their services."
+# - project:
+#   title: Tempo
+#   link: "#"
+#   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# - project:
+#   title: Atom
+#   link: "#"
+#   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# - project:
+#   title: Delta
+#   link: "#"
+#   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title:  Traffic Event Analysis in Rio de Janeiro
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Data mining using Twitter. Creation of a vocabulary about words commonly used to describe events related to traffic."
 - project:
-  title: Tempo
+  title: Real-time Television Series Audience Analysis
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Assembling a collection of tweets about the true detective series.
+  Neural network tranining for tweets classification and analisys of the audience ratings in real-time"
+
