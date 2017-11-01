@@ -12,7 +12,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Jose Guilherme Mayworm
-tagline: Full Stack Developer
+tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Jose Guilherme Mayworm is a master from the Post-Graduate Program in Computing(PPGI) at the Federal University of Rio de Janeiro(UFRJ). 
 His research is associated with distributed information dissemination towards scenarios where people move frequently and interact in brief encounters.
