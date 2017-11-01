@@ -11,10 +11,10 @@ baseurl: '/online-cv' #change it according to your repository name
 style: styles-6
 
 #Profile information
-name: Jose Guilherme Mayworm
+name: José Guilherme Mayworm
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Jose Guilherme Mayworm has a Master's Degree in Computer Science, acquired from the Post Graduate Program in Computing(PPGI) at the Federal University of Rio de Janeiro(UFRJ).  His research is associated with distributed information dissemination towards scenarios where people move frequently and interact in brief encounters. Has knowledge on social network analysis, data mining(text), and machine learning.  Also has knowledge of SQL and has worked with programming languages such as Java, C ++ and JavaScript. Currently develops in Python and works mainly on Linux platforms."
+summary: "José Guilherme Mayworm has a Master's Degree in Computer Science, acquired from the Post Graduate Program in Computing(PPGI) at the Federal University of Rio de Janeiro(UFRJ).  His research is associated with distributed information dissemination towards scenarios where people move frequently and interact in brief encounters. Has knowledge on social network analysis, data mining(text), and machine learning.  Also has knowledge of SQL and has worked with programming languages such as Java, C ++ and JavaScript. Currently develops in Python and works mainly on Linux platforms."
 
 #sidebar links
 email: jgmayworm@gmail.com
