@@ -11,7 +11,7 @@ baseurl: '/online-cv' #change it according to your repository name
 style: styles-6
 
 #Profile information
-name: Jose Guilherme Mayworm
+name: José Guilherme Mayworm
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Jose Guilherme Mayworm has a Master's Degree in Computer Science, acquired from the Post Graduate Program in Computing(PPGI) at the Federal University of Rio de Janeiro(UFRJ). 
