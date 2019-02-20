@@ -1,12 +1,18 @@
 - experience:
   role: IT Manager
+  time: 2018 - 
+  company:Institute of Applied Economics Research, Rio de Janeiro
+  details: "Data mining from PDFs files and data clustering with non-supervised machine learning 
+  techniques, sentiment analysis with lexicon approach and social network analysis."
+- experience:
+  role: IT Manager
   time: 2013 - 2014
   company: Lojas Americanas, Rio de Janeiro
   details: "Management and monitoring of the computer operational enviroment. 
   Support for users of the store's computing environment."
 - experience:
   role: Internship
-  time: '2013' 
+  time: '2013 - 2013' 
   company: Allen Sports, Rio de Janeiro
   details: "Development of sports-related applications with Microsoft .NET and SQL Server technologies."
 - experience:
